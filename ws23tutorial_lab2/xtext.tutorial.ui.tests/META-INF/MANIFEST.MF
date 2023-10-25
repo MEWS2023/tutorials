@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: xtext.tutorial.ui.tests
+Bundle-ManifestVersion: 2
+Bundle-Name: xtext.tutorial.ui.tests
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: xtext.tutorial.ui.tests; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: xtext.tutorial.ui,
+ tutorial,
+ org.eclipse.xtext.testing,
+ org.eclipse.xtext.xbase.testing,
+ org.eclipse.xtext.xbase.junit,
+ org.eclipse.core.runtime,
+ org.eclipse.xtext.ui.testing,
+ org.eclipse.ui.workbench;resolution:=optional,
+ org.eclipse.xtext.xbase.ui.testing
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: org.xtext.example.ui.tests;x-internal=true
