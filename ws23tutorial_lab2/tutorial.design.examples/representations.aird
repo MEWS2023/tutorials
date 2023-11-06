@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:tutorial="http://www.example.org/tutorial" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style http://www.example.org/tutorial platform:/resource/tutorial/model/tutorial.ecore">
+  <viewpoint:DAnalysis uid="_nW7n0An5EeuSasnz6tvwTA" selectedViews="_OufAgAn7EeuSasnz6tvwTA" version="14.3.1.202003261200">
+    <semanticResources>platform:/resource/tutorial/testmodels/hammerfactory.xmi</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_OufAgAn7EeuSasnz6tvwTA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_VEAaUQoKEeuI--B6GbNcRQ" name="new Factory" repPath="#_VD_zQAoKEeuI--B6GbNcRQ" changeId="735f9bc8-184c-4a9d-a634-b4d5cd90f9e3">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']"/>
+        <target xmi:type="tutorial:Factory" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_VD_zQAoKEeuI--B6GbNcRQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_VEBBYAoKEeuI--B6GbNcRQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_VEBBYQoKEeuI--B6GbNcRQ" type="Sirius" element="_VD_zQAoKEeuI--B6GbNcRQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_VEydcAoKEeuI--B6GbNcRQ" type="2003" element="_VEBocAoKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VEzEgAoKEeuI--B6GbNcRQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_VEzrkAoKEeuI--B6GbNcRQ" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_VE1gwwoKEeuI--B6GbNcRQ" type="3010" element="_VEC2kQoKEeuI--B6GbNcRQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VE1gxAoKEeuI--B6GbNcRQ" fontColor="16777215" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VE1gxQoKEeuI--B6GbNcRQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VE1gxgoKEeuI--B6GbNcRQ" type="3010" element="_VEDdoAoKEeuI--B6GbNcRQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VE1gxwoKEeuI--B6GbNcRQ" fontColor="16777215" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VE1gyAoKEeuI--B6GbNcRQ"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_VEzrkQoKEeuI--B6GbNcRQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_VEzrkgoKEeuI--B6GbNcRQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_VEydcQoKEeuI--B6GbNcRQ" fontColor="230880" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEydcgoKEeuI--B6GbNcRQ"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_VEzrkwoKEeuI--B6GbNcRQ" type="2003" element="_VECPggoKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VE0SoAoKEeuI--B6GbNcRQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_VE0SoQoKEeuI--B6GbNcRQ" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_VE2H0woKEeuI--B6GbNcRQ" type="3010" element="_VEEEswoKEeuI--B6GbNcRQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VE2H1AoKEeuI--B6GbNcRQ" fontColor="16777215" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VE2H1QoKEeuI--B6GbNcRQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VE2u4AoKEeuI--B6GbNcRQ" type="3010" element="_VEErwQoKEeuI--B6GbNcRQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VE2u4QoKEeuI--B6GbNcRQ" fontColor="16777215" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VE2u4goKEeuI--B6GbNcRQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VE2u4woKEeuI--B6GbNcRQ" type="3010" element="_VEFS0AoKEeuI--B6GbNcRQ">
+              <styles xmi:type="notation:FontStyle" xmi:id="_VE2u5AoKEeuI--B6GbNcRQ" fontColor="16777215" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_VE2u5QoKEeuI--B6GbNcRQ"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_VE0SogoKEeuI--B6GbNcRQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_VE0SowoKEeuI--B6GbNcRQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_VEzrlAoKEeuI--B6GbNcRQ" fontColor="230880" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VEzrlQoKEeuI--B6GbNcRQ" x="250"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_VE0SpAoKEeuI--B6GbNcRQ" type="2002" element="_VEFS0goKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VE05sAoKEeuI--B6GbNcRQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_VE1gwAoKEeuI--B6GbNcRQ" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_VE2u5goKEeuI--B6GbNcRQ" type="3007" element="_VEF54AoKEeuI--B6GbNcRQ">
+              <children xmi:type="notation:Node" xmi:id="_VE3V8AoKEeuI--B6GbNcRQ" type="5003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_VE3V8QoKEeuI--B6GbNcRQ" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_UppSMAoNEeuI--B6GbNcRQ" type="3002" element="_UodmcQoNEeuI--B6GbNcRQ">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_UppSMQoNEeuI--B6GbNcRQ" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UppSMgoNEeuI--B6GbNcRQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_VE2u5woKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE2u6AoKEeuI--B6GbNcRQ" x="30" y="89" width="119" height="71"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_VE3V8goKEeuI--B6GbNcRQ" type="3007" element="_VEF54woKEeuI--B6GbNcRQ">
+              <children xmi:type="notation:Node" xmi:id="_VE39AAoKEeuI--B6GbNcRQ" type="5003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_VE39AQoKEeuI--B6GbNcRQ" y="5"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_VE5yMAoKEeuI--B6GbNcRQ" type="3001" element="_VEhXsAoKEeuI--B6GbNcRQ">
+                <children xmi:type="notation:Node" xmi:id="_VE5yMwoKEeuI--B6GbNcRQ" type="5001">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_VE5yNAoKEeuI--B6GbNcRQ" x="-1"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_VE7AUAoKEeuI--B6GbNcRQ" type="3005" element="_VEuzEAoKEeuI--B6GbNcRQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_VE7AUQoKEeuI--B6GbNcRQ" fontName="Segoe UI"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE7AUgoKEeuI--B6GbNcRQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_VE5yMQoKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE5yMgoKEeuI--B6GbNcRQ" x="-2" width="10" height="10"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_4nRzoAoMEeuI--B6GbNcRQ" type="3003" element="_4lz0AAoMEeuI--B6GbNcRQ">
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_4nRzoQoMEeuI--B6GbNcRQ" fontName="Segoe UI"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4nRzogoMEeuI--B6GbNcRQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_VE3V8woKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE3V9AoKEeuI--B6GbNcRQ" x="303" y="89" width="166" height="86"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_VE1gwQoKEeuI--B6GbNcRQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_VE1gwgoKEeuI--B6GbNcRQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_VE0SpQoKEeuI--B6GbNcRQ" fontColor="230880" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE0SpgoKEeuI--B6GbNcRQ" x="302" y="235" width="526" height="263"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_VEBBYgoKEeuI--B6GbNcRQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_VE7AUwoKEeuI--B6GbNcRQ" type="4001" element="_VEvaIAoKEeuI--B6GbNcRQ" source="_VE2u5goKEeuI--B6GbNcRQ" target="_VE3V8goKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VE7nYAoKEeuI--B6GbNcRQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE7nYQoKEeuI--B6GbNcRQ" x="-8" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE7nYgoKEeuI--B6GbNcRQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE7nYwoKEeuI--B6GbNcRQ" x="4" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE7nZAoKEeuI--B6GbNcRQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE7nZQoKEeuI--B6GbNcRQ" x="4" y="-1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_VE7AVAoKEeuI--B6GbNcRQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_VE7AVQoKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VE7AVgoKEeuI--B6GbNcRQ" points="[104, 11, -169, -19]$[273, 30, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE8OcAoKEeuI--B6GbNcRQ" id="(0.12605042016806722,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE8OcQoKEeuI--B6GbNcRQ" id="(0.09036144578313253,0.3488372093023256)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_VE81gAoKEeuI--B6GbNcRQ" type="4001" element="_VEwBMgoKEeuI--B6GbNcRQ" source="_VE2u5goKEeuI--B6GbNcRQ" target="_VEydcAoKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VE81hAoKEeuI--B6GbNcRQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE9ckAoKEeuI--B6GbNcRQ" x="-7" y="-7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE9ckQoKEeuI--B6GbNcRQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE9ckgoKEeuI--B6GbNcRQ" x="8" y="7"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE9ckwoKEeuI--B6GbNcRQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE9clAoKEeuI--B6GbNcRQ" x="8" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_VE81gQoKEeuI--B6GbNcRQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_VE81ggoKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VE81gwoKEeuI--B6GbNcRQ" points="[-14, -15, 245, 282]$[-217, -248, 42, 49]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE-DoAoKEeuI--B6GbNcRQ" id="(0.12605042016806722,0.2112676056338028)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE-DoQoKEeuI--B6GbNcRQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_VE-DogoKEeuI--B6GbNcRQ" type="4001" element="_VEwoQgoKEeuI--B6GbNcRQ" source="_VE3V8goKEeuI--B6GbNcRQ" target="_VEzrkwoKEeuI--B6GbNcRQ">
+          <children xmi:type="notation:Node" xmi:id="_VE-DpgoKEeuI--B6GbNcRQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE-DpwoKEeuI--B6GbNcRQ" x="-16" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE-DqAoKEeuI--B6GbNcRQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE-DqQoKEeuI--B6GbNcRQ" x="21" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_VE-DqgoKEeuI--B6GbNcRQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VE-DqwoKEeuI--B6GbNcRQ" x="20" y="-1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_VE-DowoKEeuI--B6GbNcRQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_VE-DpAoKEeuI--B6GbNcRQ" fontName="Segoe UI" fontHeight="12"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VE-DpQoKEeuI--B6GbNcRQ" points="[-14, -15, 261, 282]$[-230, -248, 45, 49]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE-qsAoKEeuI--B6GbNcRQ" id="(0.09036144578313253,0.1744186046511628)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VE-qsQoKEeuI--B6GbNcRQ" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_VEwoRwoKEeuI--B6GbNcRQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_VEwoSAoKEeuI--B6GbNcRQ"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_VEBocAoKEeuI--B6GbNcRQ" name="HammerHandle (WOOD)" incomingEdges="_VEwBMgoKEeuI--B6GbNcRQ">
+      <target xmi:type="tutorial:BasicItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0"/>
+      <semanticElements xmi:type="tutorial:BasicItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_VECPgAoKEeuI--B6GbNcRQ" labelSize="12" showIcon="false" labelColor="224,133,3" borderSize="1" borderSizeComputationExpression="1" borderColor="252,175,62" backgroundColor="253,206,137" foregroundColor="253,206,137">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VEC2kQoKEeuI--B6GbNcRQ" name="Brown">
+        <target xmi:type="tutorial:Color" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0/@color"/>
+        <semanticElements xmi:type="tutorial:Color" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0/@color"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VEC2kgoKEeuI--B6GbNcRQ" labelSize="12" iconPath="/tutorial.design/icons/color.png" labelColor="255,255,255" labelAlignment="LEFT" labelPosition="node" color="253,206,137">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Color']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Color']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VEDdoAoKEeuI--B6GbNcRQ" name="CylinderShape">
+        <target xmi:type="tutorial:CylinderShape" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0/@shape"/>
+        <semanticElements xmi:type="tutorial:CylinderShape" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.0/@shape"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VEEEsAoKEeuI--B6GbNcRQ" labelSize="12" iconPath="/tutorial.design/icons/cylindershape.png" labelColor="255,255,255" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='CylinderShape']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='CylinderShape']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_VECPggoKEeuI--B6GbNcRQ" name="HammerHead (STEEL)" incomingEdges="_VEwoQgoKEeuI--B6GbNcRQ">
+      <target xmi:type="tutorial:BasicItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1"/>
+      <semanticElements xmi:type="tutorial:BasicItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_VECPgwoKEeuI--B6GbNcRQ" labelSize="12" showIcon="false" labelColor="224,133,3" borderSize="1" borderSizeComputationExpression="1" borderColor="252,175,62" backgroundColor="253,206,137" foregroundColor="253,206,137">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VEEEswoKEeuI--B6GbNcRQ" name="Grey">
+        <target xmi:type="tutorial:Color" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@color"/>
+        <semanticElements xmi:type="tutorial:Color" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@color"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VEErwAoKEeuI--B6GbNcRQ" labelSize="12" iconPath="/tutorial.design/icons/color.png" labelColor="255,255,255" labelAlignment="LEFT" labelPosition="node" color="253,206,137">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Color']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Color']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VEErwQoKEeuI--B6GbNcRQ" name="BlockShape">
+        <target xmi:type="tutorial:BlockShape" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@shape"/>
+        <semanticElements xmi:type="tutorial:BlockShape" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@shape"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VEErwgoKEeuI--B6GbNcRQ" labelSize="12" iconPath="/tutorial.design/icons/blockshape.png" labelColor="255,255,255" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='BlockShape']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='BlockShape']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_VEFS0AoKEeuI--B6GbNcRQ" name="Handle Connection Point">
+        <target xmi:type="tutorial:Marker" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@markers.0"/>
+        <semanticElements xmi:type="tutorial:Marker" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@markers.0"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_VEFS0QoKEeuI--B6GbNcRQ" labelSize="12" iconPath="/tutorial.design/icons/marker.png" labelColor="255,255,255" labelAlignment="LEFT" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Marker']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='BasicItemType']/@subNodeMappings[name='Marker']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_VEFS0goKEeuI--B6GbNcRQ" name="Hammer">
+      <target xmi:type="tutorial:ComplexItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2"/>
+      <semanticElements xmi:type="tutorial:ComplexItemType" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_VEFS0woKEeuI--B6GbNcRQ" labelSize="12" showIcon="false" labelColor="224,133,3" borderSize="1" borderSizeComputationExpression="1" borderColor="252,175,62" backgroundColor="253,206,137" foregroundColor="253,206,137">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']"/>
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_VEF54AoKEeuI--B6GbNcRQ" name="Hammer Handle" outgoingEdges="_VEvaIAoKEeuI--B6GbNcRQ _VEwBMgoKEeuI--B6GbNcRQ" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.0"/>
+        <semanticElements xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.0"/>
+        <ownedStyle xmi:type="diagram:Dot" uid="_UodmcQoNEeuI--B6GbNcRQ" labelSize="12" showIcon="false" labelPosition="node" backgroundColor="255,255,255">
+          <description xmi:type="style:DotDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']/@conditionnalStyles.1/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNode" uid="_VEF54woKEeuI--B6GbNcRQ" name="Hammer Head" outgoingEdges="_VEwoQgoKEeuI--B6GbNcRQ" incomingEdges="_VEvaIAoKEeuI--B6GbNcRQ" width="3" height="3" resizeKind="NSEW">
+        <target xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.1"/>
+        <semanticElements xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.1"/>
+        <ownedBorderedNodes xmi:type="diagram:DNode" uid="_VEhXsAoKEeuI--B6GbNcRQ" width="1" height="1" resizeKind="NSEW">
+          <target xmi:type="tutorial:Marker" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@markers.0"/>
+          <semanticElements xmi:type="tutorial:Marker" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.1/@markers.0"/>
+          <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_VEuzEAoKEeuI--B6GbNcRQ" labelSize="12" showIcon="false" workspacePath="/tutorial.design/icons/marker.png">
+            <description xmi:type="style:WorkspaceImageDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']/@borderedNodeMappings[name='ComponentMarkers']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']/@borderedNodeMappings[name='ComponentMarkers']"/>
+        </ownedBorderedNodes>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <ownedStyle xmi:type="diagram:Square" uid="_4lz0AAoMEeuI--B6GbNcRQ" labelSize="12" showIcon="false" labelPosition="node" color="255,255,255">
+          <description xmi:type="style:SquareDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']/@conditionnalStyles.0/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@containerMappings[name='ComplexItemType']/@subNodeMappings[name='Component']"/>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_VEvaIAoKEeuI--B6GbNcRQ" sourceNode="_VEF54AoKEeuI--B6GbNcRQ" targetNode="_VEF54woKEeuI--B6GbNcRQ">
+      <target xmi:type="tutorial:ItemConnection" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@itemConnections.0"/>
+      <semanticElements xmi:type="tutorial:ItemConnection" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@itemConnections.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_VEvaIQoKEeuI--B6GbNcRQ" lineStyle="dot" targetArrow="NoDecoration" size="2" strokeColor="255,255,255">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ItemConnection']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_VEvaIgoKEeuI--B6GbNcRQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ItemConnection']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_VEwBMgoKEeuI--B6GbNcRQ" sourceNode="_VEF54AoKEeuI--B6GbNcRQ" targetNode="_VEBocAoKEeuI--B6GbNcRQ">
+      <target xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_VEwBMwoKEeuI--B6GbNcRQ" size="2" strokeColor="209,209,209">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ComponentItemType']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_VEwBNAoKEeuI--B6GbNcRQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ComponentItemType']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_VEwoQgoKEeuI--B6GbNcRQ" sourceNode="_VEF54woKEeuI--B6GbNcRQ" targetNode="_VECPggoKEeuI--B6GbNcRQ">
+      <target xmi:type="tutorial:Component" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#//@itemTypes.2/@components.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" uid="_VEwoQwoKEeuI--B6GbNcRQ" size="2" strokeColor="209,209,209">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ComponentItemType']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_VEwoRAoKEeuI--B6GbNcRQ" labelSize="12"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer/@edgeMappings[name='ComponentItemType']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_VD_zQQoKEeuI--B6GbNcRQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/tutorial.design/description/tutorial.odesign#//@ownedViewpoints[name='FactoryViewpoint']/@ownedRepresentations[name='Factory']/@defaultLayer"/>
+    <target xmi:type="tutorial:Factory" href="platform:/resource/tutorial/testmodels/hammerfactory.xmi#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
