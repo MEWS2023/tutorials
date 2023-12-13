@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tutorial:Factory
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:tutorial="http://www.example.org/tutorial"
+    name="HammerFactory">
+  <itemTypes
+      xsi:type="tutorial:BasicItemType"
+      name="HammerHandle">
+    <markers
+        name="HeadMarker"/>
+    <shape xsi:type="tutorial:BlockShape"/>
+    <color name="White"/>
+  </itemTypes>
+</tutorial:Factory>
